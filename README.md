@@ -1,2 +1,2 @@
 # BSPR
-Implementation of BSPR for class-incremental learning via risk-adaptive geodesic probing and classwise proper-risk feedback.
+This repository provides the implementation of BSPR, a class-incremental learning method that combines risk-adaptive geodesic probing with classwise proper-risk feedback.
